@@ -1,2 +1,4 @@
-# enterprise-architect-c-code-generation-template
-C code generation template for the modeling tool Enterprise Architect
+# Enterprise Architect C Code Generation Template
+C code generation template for the modeling tool Enterprise Architect.
+
+## How to use the template?
